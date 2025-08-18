@@ -1,0 +1,17 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "Decide",
+  "logo": "/logo.png",
+  "theme": "mint",
+  "colors": {
+    "primary": "#4F46E5"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Overview",
+        "pages": ["introduction"]
+      }
+    ]
+  }
+}
