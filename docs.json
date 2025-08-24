@@ -1,17 +1,88 @@
 {
   "$schema": "https://mintlify.com/docs.json",
+  "theme": "maple",
   "name": "Decide",
-  "logo": "/logo.png",
-  "theme": "mint",
   "colors": {
-    "primary": "#4F46E5"
+    "primary": "#fff",
+    "light": "#fff",
+    "dark": "#000"
   },
+  "favicon": "/logo/dark.jpg",
   "navigation": {
-    "groups": [
+    "tabs": [
       {
-        "group": "Overview",
-        "pages": ["introduction"]
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Getting started",
+            "pages": [
+              "index",
+              "quickstart",
+              "development"
+            ]
+          },
+          {
+            "group": "Customization",
+            "pages": [
+              "essentials/settings",
+              "essentials/navigation"
+            ]
+          },
+          {
+            "group": "Writing content",
+            "pages": [
+              "essentials/markdown",
+              "essentials/code",
+              "essentials/images",
+              "essentials/reusable-snippets"
+            ]
+          }
+        ]
       }
-    ]
+    ],
+    "global": {
+      "anchors": [
+        {
+          "label": "Home",
+          "href": "/"
+        }
+      ]
+    }
+  },
+  "logo": {
+    "light": "/logo/dark.jpg",
+    "dark": "/logo/dark.jpg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:hi@mintlify.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Try Decide",
+      "href": "https://www.trydecide.co"
+    }
+  },
+  "contextual": {
+    "options": [
+     "copy",
+     "view",
+     "chatgpt",
+     "claude",
+     "perplexity",
+     "mcp",
+     "cursor",
+     "vscode"
+   ]
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/mintlify",
+      "github": "https://github.com/mintlify",
+      "linkedin": "https://linkedin.com/company/mintlify"
+    }
   }
 }
