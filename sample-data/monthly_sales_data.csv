@@ -1,0 +1,101 @@
+OrderID,OrderDate,CustomerID,Region,ProductCategory,ProductName,Quantity,UnitPrice,TotalSales
+10001,2024-02-20,CUST-102,Asia,Home Goods,Coffee Maker,4,231.85,927.4
+10002,2024-08-21,CUST-211,Asia,Books,Cookbook,4,285.46,1141.84
+10003,2023-09-26,CUST-302,Asia,Books,History Book,3,238.46,715.38
+10004,2024-03-21,CUST-132,Europe,Home Goods,Lamp,4,285.41,1141.64
+10005,2025-04-20,CUST-495,Europe,Books,Fiction Novel,4,476.49,1905.96
+10006,2024-05-03,CUST-234,Europe,Electronics,Tablet,2,386.96,773.92
+10007,2023-10-15,CUST-231,Africa,Sports,Dumbbells,3,387.72,1163.16
+10008,2024-03-10,CUST-396,Africa,Books,Sci-Fi Classic,3,403.53,1210.59
+10009,2024-04-18,CUST-488,North America,Electronics,Laptop,4,338.08,1352.32
+10010,2023-12-19,CUST-264,South America,Books,Sci-Fi Classic,3,134.04,402.12
+10011,2025-08-15,CUST-292,Africa,Electronics,Laptop,4,139.06,556.24
+10012,2025-05-03,CUST-402,South America,Sports,Yoga Mat,3,321.31,963.93
+10013,2025-07-31,CUST-194,South America,Books,Cookbook,2,354.06,708.12
+10014,2025-08-13,CUST-474,Asia,Sports,Running Shoes,2,99.8,199.6
+10015,2024-11-30,CUST-366,Africa,Books,Cookbook,2,308.4,616.8
+10016,2024-08-05,CUST-324,Asia,Electronics,Laptop,1,170.92,170.92
+10017,2025-05-04,CUST-477,Africa,Electronics,Tablet,4,96.38,385.52
+10018,2024-08-29,CUST-448,Africa,Home Goods,Blender,4,347.32,1389.28
+10019,2024-12-23,CUST-327,South America,Clothing,Jacket,1,394.42,394.42
+10020,2025-05-31,CUST-334,Europe,Electronics,Headphones,2,111.21,222.42
+10021,2024-02-19,CUST-418,South America,Clothing,Jacket,1,222.45,222.45
+10022,2025-01-25,CUST-128,North America,Home Goods,Towel Set,3,86.52,259.56
+10023,2024-10-26,CUST-243,Africa,Sports,Running Shoes,3,62.04,186.12
+10024,2024-07-08,CUST-423,North America,Clothing,Jacket,3,420.95,1262.85
+10025,2023-10-26,CUST-182,Africa,Clothing,T-Shirt,2,202.23,404.46
+10026,2024-01-28,CUST-144,South America,Books,Sci-Fi Classic,4,114.08,456.32
+10027,2024-09-07,CUST-467,Asia,Home Goods,Blender,2,423.09,846.18
+10028,2024-06-04,CUST-370,Europe,Sports,Running Shoes,2,375.49,750.98
+10029,2024-03-19,CUST-178,Africa,Books,Cookbook,2,125.18,250.36
+10030,2024-08-25,CUST-374,South America,Electronics,Smartphone,2,468.0,936.0
+10031,2023-09-04,CUST-150,Africa,Electronics,Smartphone,2,365.82,731.64
+10032,2025-07-26,CUST-199,Asia,Books,Cookbook,4,335.26,1341.04
+10033,2025-06-22,CUST-211,Asia,Electronics,Headphones,4,80.07,320.28
+10034,2023-10-30,CUST-206,Africa,Electronics,Smartphone,4,138.76,555.04
+10035,2025-05-03,CUST-333,North America,Books,Sci-Fi Classic,3,231.4,694.2
+10036,2024-09-10,CUST-104,Asia,Electronics,Headphones,4,245.84,983.36
+10037,2024-04-25,CUST-100,North America,Electronics,Smartphone,3,414.41,1243.23
+10038,2023-10-07,CUST-269,North America,Home Goods,Lamp,4,357.87,1431.48
+10039,2025-03-24,CUST-339,Asia,Books,Sci-Fi Classic,3,90.55,271.65
+10040,2025-06-14,CUST-175,Asia,Sports,Running Shoes,4,340.85,1363.4
+10041,2023-10-27,CUST-477,Asia,Home Goods,Coffee Maker,4,456.74,1826.96
+10042,2024-03-14,CUST-110,Africa,Books,History Book,1,423.87,423.87
+10043,2024-11-22,CUST-404,Asia,Clothing,Jeans,3,42.49,127.47
+10044,2024-08-25,CUST-287,North America,Sports,Basketball,3,391.15,1173.45
+10045,2023-12-11,CUST-142,South America,Home Goods,Coffee Maker,1,282.75,282.75
+10046,2024-10-11,CUST-232,South America,Clothing,Shoes,2,169.49,338.98
+10047,2024-01-14,CUST-261,Africa,Clothing,Jeans,3,82.51,247.53
+10048,2025-04-08,CUST-323,Africa,Home Goods,Coffee Maker,4,401.31,1605.24
+10049,2024-02-22,CUST-179,Africa,Clothing,Shoes,1,331.4,331.4
+10050,2024-03-26,CUST-124,Africa,Home Goods,Blender,2,434.14,868.28
+10051,2024-03-04,CUST-151,Europe,Sports,Basketball,3,127.23,381.69
+10052,2024-01-31,CUST-461,Asia,Home Goods,Coffee Maker,1,39.0,39.0
+10053,2023-12-13,CUST-448,Africa,Electronics,Laptop,1,112.66,112.66
+10054,2024-10-24,CUST-221,Africa,Clothing,Jeans,1,91.61,91.61
+10055,2023-10-23,CUST-101,Europe,Home Goods,Towel Set,2,90.09,180.18
+10056,2023-11-24,CUST-428,Africa,Sports,Dumbbells,2,125.1,250.2
+10057,2025-07-22,CUST-495,South America,Books,Fiction Novel,2,458.8,917.6
+10058,2025-01-12,CUST-271,North America,Books,Sci-Fi Classic,4,424.82,1699.28
+10059,2024-03-31,CUST-257,Europe,Home Goods,Lamp,3,125.67,377.01
+10060,2023-12-14,CUST-419,Africa,Books,Cookbook,2,260.11,520.22
+10061,2024-11-13,CUST-114,Africa,Home Goods,Blender,4,88.97,355.88
+10062,2025-02-09,CUST-284,Africa,Sports,Running Shoes,3,137.16,411.48
+10063,2024-11-15,CUST-127,North America,Clothing,T-Shirt,1,41.66,41.66
+10064,2024-04-14,CUST-449,Asia,Clothing,T-Shirt,1,260.99,260.99
+10065,2024-04-07,CUST-467,Asia,Clothing,Shoes,1,363.73,363.73
+10066,2024-11-19,CUST-395,Africa,Books,History Book,1,421.62,421.62
+10067,2025-05-02,CUST-200,Africa,Sports,Yoga Mat,3,458.17,1374.51
+10068,2025-02-04,CUST-232,Africa,Electronics,Laptop,3,497.69,1493.07
+10069,2024-02-13,CUST-161,South America,Clothing,Jeans,4,386.17,1544.68
+10070,2025-04-08,CUST-186,Europe,Sports,Dumbbells,3,424.5,1273.5
+10071,2023-10-10,CUST-339,Europe,Sports,Basketball,2,37.81,75.62
+10072,2025-07-14,CUST-122,Africa,Clothing,Shoes,4,421.27,1685.08
+10073,2025-07-09,CUST-425,Asia,Clothing,Shoes,1,146.31,146.31
+10074,2024-12-11,CUST-455,Asia,Electronics,Laptop,3,460.55,1381.65
+10075,2024-09-03,CUST-233,South America,Sports,Basketball,3,293.69,881.07
+10076,2024-01-19,CUST-495,North America,Electronics,Smartphone,4,354.6,1418.4
+10077,2024-11-20,CUST-453,Africa,Books,Fiction Novel,3,134.95,404.85
+10078,2024-12-10,CUST-238,North America,Clothing,T-Shirt,4,22.29,89.16
+10079,2025-07-25,CUST-142,Africa,Clothing,Jeans,4,254.4,1017.6
+10080,2024-05-26,CUST-428,South America,Books,Fiction Novel,4,79.82,319.28
+10081,2024-07-10,CUST-268,Europe,Electronics,Tablet,2,441.36,882.72
+10082,2024-03-19,CUST-154,North America,Books,Cookbook,3,379.95,1139.85
+10083,2025-03-02,CUST-471,Europe,Electronics,Headphones,4,34.82,139.28
+10084,2024-09-26,CUST-204,Asia,Home Goods,Blender,3,284.7,854.1
+10085,2024-12-06,CUST-419,South America,Home Goods,Coffee Maker,2,352.66,705.32
+10086,2024-12-22,CUST-264,South America,Books,Sci-Fi Classic,2,115.57,231.14
+10087,2024-10-10,CUST-332,South America,Clothing,Shoes,2,380.0,760.0
+10088,2025-07-03,CUST-229,Africa,Electronics,Smartphone,2,443.6,887.2
+10089,2024-04-06,CUST-401,North America,Books,Cookbook,1,439.18,439.18
+10090,2024-09-03,CUST-220,Africa,Books,Cookbook,3,332.87,998.61
+10091,2025-01-23,CUST-319,South America,Electronics,Laptop,4,23.98,95.92
+10092,2024-11-07,CUST-419,North America,Home Goods,Lamp,4,433.28,1733.12
+10093,2024-06-08,CUST-196,Europe,Sports,Dumbbells,1,443.13,443.13
+10094,2024-04-05,CUST-183,Europe,Electronics,Tablet,2,294.66,589.32
+10095,2024-05-23,CUST-295,North America,Electronics,Laptop,2,246.95,493.9
+10096,2024-05-19,CUST-138,Africa,Books,Sci-Fi Classic,2,112.88,225.76
+10097,2023-09-06,CUST-194,North America,Electronics,Tablet,2,160.64,321.28
+10098,2023-11-01,CUST-288,South America,Sports,Dumbbells,4,496.57,1986.28
+10099,2025-06-25,CUST-239,South America,Books,History Book,2,129.58,259.16
+10100,2025-05-14,CUST-180,North America,Sports,Yoga Mat,3,87.38,262.14
