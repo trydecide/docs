@@ -17,10 +17,30 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "quickstart",
+              "quickstart"
+            ]
+          },
+          {
+            "group": "Using Decide",
+            "pages": [
+              "dataupload",
               "visualizations",
-              "data upload",
-              "FAQ"
+              "exporting",
+              "Dashboards"
+            ]
+          },
+          {
+            "group": "Resources",
+            "pages": [
+              "sampledatasets",
+              "bestpractices"
+            ]
+          },
+          {
+            "group": "Support",
+            "pages": [
+                "FAQ",
+                "security"
             ]
           }
         ]
