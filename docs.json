@@ -50,8 +50,8 @@
     }
   },
   "logo": {
-    "light": "/logo/dark.jpg",
-    "dark": "/logo/dark.jpg"
+    "light": "/logo/favicon-64x64.jpg",
+    "dark": "/logo/favicon-64x64.jpg"
   },
   "navbar": {
     "links": [
